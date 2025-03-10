@@ -1,0 +1,13 @@
+/puzzle-game
+    /assets
+        /css
+        /js
+        /images
+    /config
+    /src
+        /Controllers
+        /Models
+        /Views
+    /uploads
+    index.php
+    .htaccess 
